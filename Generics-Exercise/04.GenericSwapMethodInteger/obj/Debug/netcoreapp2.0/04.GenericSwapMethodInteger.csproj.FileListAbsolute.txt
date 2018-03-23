@@ -1,0 +1,11 @@
+C:\Users\pmyor\Source\Repos\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\netcoreapp2.0\04.GenericSwapMethodInteger.deps.json
+C:\Users\pmyor\Source\Repos\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\netcoreapp2.0\04.GenericSwapMethodInteger.runtimeconfig.json
+C:\Users\pmyor\Source\Repos\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\netcoreapp2.0\04.GenericSwapMethodInteger.runtimeconfig.dev.json
+C:\Users\pmyor\Source\Repos\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\netcoreapp2.0\04.GenericSwapMethodInteger.dll
+C:\Users\pmyor\Source\Repos\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\netcoreapp2.0\04.GenericSwapMethodInteger.pdb
+C:\Users\pmyor\Source\Repos\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\netcoreapp2.0\04.GenericSwapMethodInteger.csprojResolveAssemblyReference.cache
+C:\Users\pmyor\Source\Repos\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\netcoreapp2.0\04.GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Source\Repos\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\netcoreapp2.0\04.GenericSwapMethodInteger.AssemblyInfoInputs.cache
+C:\Users\pmyor\Source\Repos\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\netcoreapp2.0\04.GenericSwapMethodInteger.AssemblyInfo.cs
+C:\Users\pmyor\Source\Repos\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\netcoreapp2.0\04.GenericSwapMethodInteger.dll
+C:\Users\pmyor\Source\Repos\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\netcoreapp2.0\04.GenericSwapMethodInteger.pdb

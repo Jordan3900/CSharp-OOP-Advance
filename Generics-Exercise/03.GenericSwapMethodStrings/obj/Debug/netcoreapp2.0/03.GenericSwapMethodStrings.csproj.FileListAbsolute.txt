@@ -1,0 +1,11 @@
+C:\Users\pmyor\Source\Repos\Generics-Exercise\03.GenericSwapMethodStrings\bin\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.deps.json
+C:\Users\pmyor\Source\Repos\Generics-Exercise\03.GenericSwapMethodStrings\bin\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.runtimeconfig.json
+C:\Users\pmyor\Source\Repos\Generics-Exercise\03.GenericSwapMethodStrings\bin\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.runtimeconfig.dev.json
+C:\Users\pmyor\Source\Repos\Generics-Exercise\03.GenericSwapMethodStrings\bin\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.dll
+C:\Users\pmyor\Source\Repos\Generics-Exercise\03.GenericSwapMethodStrings\bin\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.pdb
+C:\Users\pmyor\Source\Repos\Generics-Exercise\03.GenericSwapMethodStrings\obj\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.csprojResolveAssemblyReference.cache
+C:\Users\pmyor\Source\Repos\Generics-Exercise\03.GenericSwapMethodStrings\obj\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Source\Repos\Generics-Exercise\03.GenericSwapMethodStrings\obj\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.AssemblyInfoInputs.cache
+C:\Users\pmyor\Source\Repos\Generics-Exercise\03.GenericSwapMethodStrings\obj\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Users\pmyor\Source\Repos\Generics-Exercise\03.GenericSwapMethodStrings\obj\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.dll
+C:\Users\pmyor\Source\Repos\Generics-Exercise\03.GenericSwapMethodStrings\obj\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.pdb

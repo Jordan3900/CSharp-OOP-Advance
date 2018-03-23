@@ -1,0 +1,11 @@
+C:\Users\pmyor\Source\Repos\Generics-Exercise\08.CustomListSorter\bin\Debug\netcoreapp2.0\08.CustomListSorter.deps.json
+C:\Users\pmyor\Source\Repos\Generics-Exercise\08.CustomListSorter\bin\Debug\netcoreapp2.0\08.CustomListSorter.runtimeconfig.json
+C:\Users\pmyor\Source\Repos\Generics-Exercise\08.CustomListSorter\bin\Debug\netcoreapp2.0\08.CustomListSorter.runtimeconfig.dev.json
+C:\Users\pmyor\Source\Repos\Generics-Exercise\08.CustomListSorter\bin\Debug\netcoreapp2.0\08.CustomListSorter.dll
+C:\Users\pmyor\Source\Repos\Generics-Exercise\08.CustomListSorter\bin\Debug\netcoreapp2.0\08.CustomListSorter.pdb
+C:\Users\pmyor\Source\Repos\Generics-Exercise\08.CustomListSorter\obj\Debug\netcoreapp2.0\08.CustomListSorter.csprojResolveAssemblyReference.cache
+C:\Users\pmyor\Source\Repos\Generics-Exercise\08.CustomListSorter\obj\Debug\netcoreapp2.0\08.CustomListSorter.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Source\Repos\Generics-Exercise\08.CustomListSorter\obj\Debug\netcoreapp2.0\08.CustomListSorter.AssemblyInfoInputs.cache
+C:\Users\pmyor\Source\Repos\Generics-Exercise\08.CustomListSorter\obj\Debug\netcoreapp2.0\08.CustomListSorter.AssemblyInfo.cs
+C:\Users\pmyor\Source\Repos\Generics-Exercise\08.CustomListSorter\obj\Debug\netcoreapp2.0\08.CustomListSorter.dll
+C:\Users\pmyor\Source\Repos\Generics-Exercise\08.CustomListSorter\obj\Debug\netcoreapp2.0\08.CustomListSorter.pdb
