@@ -1,0 +1,11 @@
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.deps.json
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.runtimeconfig.json
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.runtimeconfig.dev.json
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.dll
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.pdb
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.AssemblyInfoInputs.cache
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.AssemblyInfo.cs
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.dll
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.pdb
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.deps.json
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.runtimeconfig.json
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.runtimeconfig.dev.json
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.dll
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.pdb
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.csprojResolveAssemblyReference.cache
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.AssemblyInfoInputs.cache
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.AssemblyInfo.cs
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.dll
+C:\Users\pmyor\Source\Repos\Exercises-Iterators-And-Comparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.pdb
